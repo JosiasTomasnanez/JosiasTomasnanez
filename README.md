@@ -1,24 +1,37 @@
 # 👋 ¡Hola! Soy Josías Ñañez
 
-🎓 Estudiante de Ingeniería en Computación (UNC).  
-💻 Apasionado por el desarrollo de software y la resolución de problemas.  
-🚀 En busca de una oportunidad como Desarrollador Junior para seguir aprendiendo y aportar valor.
+🎓 **Estudiante de Ingeniería en Computación (UNC)** & **Futuro Especialista en DevOps**.  
+💻 Apasionado por el desarrollo de software, la automatización de procesos y la infraestructura como código.  
+🚀 Buscando mi primera oportunidad como **DevOps Junior / Cloud Engineer Junior** o **Desarrollador con enfoque DevOps** para aportar valor y automatizar procesos.
 
 ---
+
 ## 💡 Sobre mí
 
-Me destaco por mi capacidad de adaptación a distintos lenguajes y entornos de desarrollo.  
-Tengo una actitud proactiva, gusto por el trabajo en equipo y orientación a soluciones creativas y eficientes.
+Soy un estudiante avanzado de ingeniería con un fuerte interés en entornos de desarrollo modernos, CI/CD y cultura DevOps. A través de mi experiencia laboral dictando clases, desarrollé sólidas habilidades blandas como la comunicación asertiva y la adaptabilidad, claves para romper el silo entre Desarrollo y Operaciones. 
+
+Actualmente potenciando mis conocimientos en automatización, observabilidad y calidad de software a través de una Diplomatura en DevOps.
 
 ---
+
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes**: Java, Python, C, C++, Bash.
-- **Herramientas**: Git, GitHub Actions, Docker.
-- **Bases de datos**: SQL.
-- **Monitoreo**: Prometheus, Grafana.
+### ⚙️ DevOps & CI/CD
+- **Contenedores**: Docker
+- **Orquestación**: Kubernetes (Fundamentos)
+- **Automatización & CI/CD**: GitHub Actions
+- **Sistemas Operativos**: Linux (Bash scripting avanzado)
+
+### 📊 Monitoreo y Calidad (Observabilidad)
+- **Métricas & Dashboards**: Prometheus, Grafana
+- **Calidad de Código**: SonarQube, análisis estático (SAST) y dinámico (DAST)
+
+### 💻 Desarrollo & Bases de Datos
+- **Lenguajes**: Java, Python, C, C++
+- **Bases de Datos**: SQL (Diseño y manejo relacional)
 
 ---
+
 ## 📘 Proyectos academicos destacados
 
 🎯 Algunos de mis proyectos académicos y personales:
@@ -39,17 +52,3 @@ Tengo una actitud proactiva, gusto por el trabajo en equipo y orientación a sol
 
 - ✉️ josias.tomas.kiara@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/josias-tomas-ñañez-5771a0319)
-<!--
-**JosiasTomasnanez/JosiasTomasnanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
