@@ -14,8 +14,6 @@ Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de 
 
 ## 🛠️ Tecnologías y herramientas
 
-### ⚙️ DevOps & CI/CD
-
 ### ☁️ Cloud & DevOps
 - **Contenedores**: Docker, Docker Compose
 - **Orquestación**: Kubernetes
