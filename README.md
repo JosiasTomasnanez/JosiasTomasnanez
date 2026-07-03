@@ -8,33 +8,45 @@
 
 ## 💡 Sobre mí
 
-Soy un estudiante avanzado de ingeniería con un fuerte interés en entornos de desarrollo modernos, CI/CD y cultura DevOps. A través de mi experiencia laboral dictando clases, desarrollé sólidas habilidades blandas como la comunicación asertiva y la adaptabilidad, claves para romper el silo entre Desarrollo y Operaciones. 
-
-Actualmente potenciando mis conocimientos en automatización, observabilidad y calidad de software a través de una Diplomatura en DevOps.
-
+Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de desarrollo modernos, Cloud y cultura DevOps. Actualmente continúo fortaleciendo mis conocimientos a través de una Diplomatura en DevOps, adquiriendo experiencia con herramientas como Kubernetes, Helm, Argo CD, Argo Rollouts, AWS, CI/CD, observabilidad con Prometheus y Grafana, escalado automático, gestión de secretos y Feature Flags. Además, mi experiencia dictando clases me permitió desarrollar habilidades blandas como la comunicación asertiva, el trabajo en equipo y la adaptabilidad
+ 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### ⚙️ DevOps & CI/CD
-- **Contenedores**: Docker
-- **Orquestación**: Kubernetes (Fundamentos)
-- **Automatización & CI/CD**: GitHub Actions
-- **Sistemas Operativos**: Linux (Bash scripting avanzado)
 
-### 📊 Monitoreo y Calidad (Observabilidad)
-- **Métricas & Dashboards**: Prometheus, Grafana
-- **Calidad de Código**: SonarQube, análisis estático (SAST) y dinámico (DAST)
+### ☁️ Cloud & DevOps
+- **Contenedores**: Docker, Docker Compose
+- **Orquestación**: Kubernetes
+- **Empaquetado**: Helm
+- **GitOps**: Argo CD
+- **Despliegues Progresivos**: Argo Rollouts
+- **Cloud**: AWS (EKS, EC2, ALB, ECR)
+- **Escalado Automático**: KEDA
+- **Gestión de Secretos**: Sealed Secrets
+
+### ⚙️ Automatización, CI/CD y Calidad
+- **CI/CD**: GitHub Actions
+- **Sistemas Operativos**: Linux (Bash)
+- **Feature Flags**: Implementación de despliegues controlados
+- **Calidad de Código**: Herramietas de análisis estático (SAST) como SonarQube y dinámico (DAST)
+
+### 📊 Observabilidad
+- **Métricas y Dashboards**: Prometheus, Grafana
 
 ### 💻 Desarrollo & Bases de Datos
 - **Lenguajes**: Java, Python, C, C++
 - **Bases de Datos**: SQL (Diseño y manejo relacional)
-
 ---
 
 ## 📘 Proyectos academicos destacados
 
 🎯 Algunos de mis proyectos académicos y personales:
+
+- ☁️ **[FinFlow](https://github.com/JosiasTomasnanez/FinFlow.git)**  
+  Simulación de startup fintech.
+  Plataforma cloud-native basada en microservicios, diseñada para desplegarse de forma transparente tanto en clústeres Kubernetes locales como en AWS mediante Helm, incorporando GitOps, CI/CD, observabilidad, despliegues progresivos y escalado automático.
 
 - ✈️ **[Monitor de concurrencia para red de Petri](https://github.com/JosiasTomasnanez/flightAgencyAttendanceMonitor.git)**  
   Simulación de una agencia de vuelos basada en redes de Petri con concurrencia y sincronización de hilos.
