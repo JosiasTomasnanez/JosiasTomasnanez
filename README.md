@@ -1,15 +1,17 @@
 # 👋 ¡Hola! Soy Josías Ñañez
 
-🎓 **Estudiante de Ingeniería en Computación (UNC)** & **Futuro Especialista en DevOps**.  
+🎓 **Estudiante de Ingeniería en Computación (UNC)** | **DevOps Trainee & Cloud Enthusiast**  
 💻 Apasionado por el desarrollo de software, la automatización de procesos y la infraestructura como código.  
-🚀 Buscando mi primera oportunidad como **DevOps Junior / Cloud Engineer Junior** o **Desarrollador con enfoque DevOps** para aportar valor y automatizar procesos.
+🚀 Buscando mi primera oportunidad como **DevOps / Cloud Engineer** o **Desarrollador con enfoque DevOps** para aportar valor y optimizar procesos.
 
 ---
 
 ## 💡 Sobre mí
 
-Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de desarrollo modernos, Cloud y cultura DevOps. Actualmente continúo fortaleciendo mis conocimientos a través de una Diplomatura en DevOps, adquiriendo experiencia con herramientas como Kubernetes, Helm, Argo CD, Argo Rollouts, AWS, CI/CD, observabilidad con Prometheus y Grafana, escalado automático, gestión de secretos y Feature Flags. Además, mi experiencia dictando clases me permitió desarrollar habilidades blandas como la comunicación asertiva, el trabajo en equipo y la adaptabilidad
- 
+Soy estudiante avanzado de Ingeniería en Computación (UNC) y **Coordinador de Contenido Open Source en AWS Student Builder Group UNC**, donde lidero la creación de repositorios educativos y roadmaps (DevOps, Git) organizando aportes de la comunidad.
+
+Actualmente continúo fortaleciendo mis conocimientos a través de la **Diplomatura en DevOps FCEFYN UNC**, aplicando herramientas como Kubernetes, Helm, Argo CD, Terraform, AWS, CI/CD, observabilidad con Prometheus y Grafana, y gestión de secretos. Mi experiencia docente y comunitaria potenció habilidades como la comunicación asertiva, la adaptabilidad y el trabajo en equipo.
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -20,7 +22,7 @@ Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de 
 - **Empaquetado**: Helm
 - **GitOps**: Argo CD
 - **Despliegues Progresivos**: Argo Rollouts
-- **Cloud**: AWS (EKS, EC2, ALB, ECR)
+- **Cloud & IaC**: AWS (EKS, ECS, EC2, VPC, IAM, S3, EBS), Terraform
 - **Escalado Automático**: KEDA
 - **Gestión de Secretos**: Sealed Secrets
 
@@ -28,7 +30,7 @@ Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de 
 - **CI/CD**: GitHub Actions
 - **Sistemas Operativos**: Linux (Bash)
 - **Feature Flags**: Implementación de despliegues controlados
-- **Calidad de Código**: Herramietas de análisis estático (SAST) como SonarQube y dinámico (DAST)
+- **Calidad de Código**: Herramientas de análisis estático (SAST) como SonarQube y dinámico (DAST)
 
 ### 📊 Observabilidad
 - **Métricas y Dashboards**: Prometheus, Grafana
@@ -36,15 +38,15 @@ Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de 
 ### 💻 Desarrollo & Bases de Datos
 - **Lenguajes**: Java, Python, C, C++
 - **Bases de Datos**: SQL (Diseño y manejo relacional)
+
 ---
 
-## 📘 Proyectos academicos destacados
+## 📘 Proyectos académicos destacados
 
-🎯 Algunos de mis proyectos académicos y personales:
+   Algunos de mis proyectos académicos y personales:
 
 - ☁️ **[FinFlow](https://github.com/JosiasTomasnanez/FinFlow.git)**  
-  Simulación de startup fintech.
-  Plataforma cloud-native basada en microservicios, diseñada para desplegarse de forma transparente tanto en clústeres Kubernetes locales como en AWS mediante Helm, incorporando GitOps, CI/CD, observabilidad, despliegues progresivos y escalado automático.
+  Simulación de startup fintech. Plataforma *cloud-native* basada en microservicios, diseñada para desplegarse de forma transparente tanto en clústeres Kubernetes locales como en AWS mediante Helm, incorporando GitOps, CI/CD, observabilidad, despliegues progresivos y escalado automático.
 
 - ✈️ **[Monitor de concurrencia para red de Petri](https://github.com/JosiasTomasnanez/flightAgencyAttendanceMonitor.git)**  
   Simulación de una agencia de vuelos basada en redes de Petri con concurrencia y sincronización de hilos.
@@ -58,6 +60,7 @@ Soy un estudiante avanzado de Ingeniería con un fuerte interés en entornos de 
 🔗 Podés ver más en mi perfil: [github.com/JosiasTomasnanez](https://github.com/JosiasTomasnanez).
 
 ---
+
 ## 📫 Contacto
 
 - ✉️ josias.tomas.kiara@gmail.com  
