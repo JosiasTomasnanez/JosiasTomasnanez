@@ -9,7 +9,8 @@ Trabajo con **Kubernetes**, **GitOps con Argo CD**, **CI/CD con GitHub Actions**
 
 **Consultor IT freelance · Casa Fioretti** (desde sept. 2026)
 
-- Odoo Enterprise on-premise para ~20 dispositivos: Linux con discos cifrados, Docker y configuración como código con Makefile. Acceso por Tailscale y Cloudflare Access.
+- Odoo Enterprise on-premise para ~20 dispositivos: Linux con discos cifrados, Docker, acceso por Tailscale y Cloudflare Access. Configuración como código con una herramienta propia (`plan` / `apply` / `verify` sobre YAML) y 18 módulos a medida.
+- Tienda online en Cloudflare Workers (Astro, D1, Durable Objects) sincronizada con Odoo sin exponer el servidor.
 - Monitoreo como código en Grafana (servidor, PostgreSQL y Odoo), con alertas por email y Discord.
 - Backups diarios a Cloudflare R2 y disco local, con chequeo semanal y restore simulado una vez por mes.
 - Turnero para red local que atiende 7 puestos y ~300 clientes por día.
@@ -18,6 +19,7 @@ Trabajo con **Kubernetes**, **GitOps con Argo CD**, **CI/CD con GitHub Actions**
 
 | Proyecto | Qué tiene |
 |---|---|
+| **[Odoo as Code](https://github.com/JosiasTomasnanez/odoo-implementation-as-code)** | Export anonimizado de la implementación en producción: configuración como código, 18 módulos de Odoo, tienda en Cloudflare Workers, servidor endurecido, backups con restore de prueba, monitoreo y tests end-to-end. |
 | **[FinFlow](https://github.com/JosiasTomasnanez/FinFlow)** | Plataforma GitOps sobre K3s y Amazon EKS: Helm, Argo CD (app-of-apps), canary con Argo Rollouts, autoescalado con KEDA, observabilidad con Prometheus, Grafana, Loki y Jaeger, Sealed Secrets y quality gate en GitHub Actions. Proyecto grupal de la Diplomatura; fui el autor principal de la infraestructura. |
 | **[VitalMed](https://github.com/JosiasTomasnanez/vitalmed-telehealth-platform)** | Arquitectura AWS multi-cuenta en Terraform modular (VPC, ECS Fargate, Aurora, Lambda + SQS, CloudFront). Escribí los 32 tests de Terraform y el pipeline de CI (validate, TFLint, Checkov). |
 
@@ -29,7 +31,7 @@ Otros proyectos de la facultad: [shell en C](https://github.com/JosiasTomasnanez
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,githubactions,prometheus,grafana,linux,bash,postgres,sqlite,python,git&perline=13" alt="AWS, Kubernetes, Terraform, Docker, GitHub Actions, Prometheus, Grafana, Linux, Bash, PostgreSQL, SQLite, Python, Git">
 </p>
 
-También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed Secrets · SonarCloud · OWASP ZAP · Checkov · TFLint · Cloudflare (R2, Access) · Tailscale
+También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed Secrets · SonarCloud · OWASP ZAP · Checkov · TFLint · Cloudflare (R2, Workers, Tunnel, Access) · Tailscale
 
 ### Certificaciones y comunidad
 
