@@ -29,7 +29,7 @@ Otros proyectos de la facultad: [shell en C](https://github.com/JosiasTomasnanez
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,githubactions,prometheus,grafana,linux,bash,postgres,mysql,python,git&perline=13" alt="AWS, Kubernetes, Terraform, Docker, GitHub Actions, Prometheus, Grafana, Linux, Bash, PostgreSQL, MySQL, Python, Git">
 </p>
 
-También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed Secrets · Checkov · TFLint · Cloudflare (R2, Access) · Tailscale
+También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed Secrets · SonarCloud · OWASP ZAP · Checkov · TFLint · Cloudflare (R2, Access) · Tailscale
 
 ### Certificaciones y comunidad
 
