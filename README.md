@@ -7,7 +7,7 @@ Trabajo con **Kubernetes**, **GitOps con Argo CD**, **CI/CD con GitHub Actions**
 
 ### En producción
 
-**Consultor IT freelance · Casa Fioretti** — sept. 2026 – hoy
+**Consultor IT freelance · Casa Fioretti** (desde sept. 2026)
 
 - Odoo Enterprise on-premise para ~20 dispositivos: Linux con discos cifrados, Docker y configuración como código con Makefile. Acceso por Tailscale y Cloudflare Access.
 - Monitoreo como código en Grafana (servidor, PostgreSQL y Odoo), con alertas por email y Discord.
@@ -33,9 +33,9 @@ También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed S
 
 ### Certificaciones y comunidad
 
-- **AWS Certified Cloud Practitioner** — 2026
-- **Diplomatura en DevOps** — FCEFyN, Universidad Nacional de Córdoba, 2026
-- **Core Team Member, AWS Student Builder Group UNC** — contenido open source (roadmaps de DevOps y Git)
+- **AWS Certified Cloud Practitioner** (2026)
+- **Diplomatura en DevOps**, FCEFyN, Universidad Nacional de Córdoba (2026)
+- **Core Team Member, AWS Student Builder Group UNC**: contenido open source (roadmaps de DevOps y Git)
 
 ### Contacto
 
