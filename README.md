@@ -26,7 +26,7 @@ Otros proyectos de la facultad: [shell en C](https://github.com/JosiasTomasnanez
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,githubactions,prometheus,grafana,linux,bash,postgres,mysql,python,git&perline=13" alt="AWS, Kubernetes, Terraform, Docker, GitHub Actions, Prometheus, Grafana, Linux, Bash, PostgreSQL, MySQL, Python, Git">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,githubactions,prometheus,grafana,linux,bash,postgres,sqlite,python,git&perline=13" alt="AWS, Kubernetes, Terraform, Docker, GitHub Actions, Prometheus, Grafana, Linux, Bash, PostgreSQL, SQLite, Python, Git">
 </p>
 
 También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed Secrets · SonarCloud · OWASP ZAP · Checkov · TFLint · Cloudflare (R2, Access) · Tailscale
