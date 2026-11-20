@@ -1,67 +1,42 @@
-# 👋 ¡Hola! Soy Josías Ñañez
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Josias Tomas Ñañez · DevOps / Cloud Engineer Jr" src="assets/header-light.svg" width="100%">
+</picture>
 
-🎓 **Estudiante de Ingeniería en Computación (UNC)** | **DevOps Trainee & Cloud Enthusiast**  
-💻 Apasionado por el desarrollo de software, la automatización de procesos y la infraestructura como código.  
-🚀 Buscando mi primera oportunidad como **DevOps / Cloud Engineer** o **Desarrollador con enfoque DevOps** para aportar valor y optimizar procesos.
+Trabajo con **Kubernetes**, **GitOps con Argo CD**, **CI/CD con GitHub Actions** y **Terraform sobre AWS**. Me enfoco en automatizar, monitorear y dejar sistemas que funcionen solos. Busco mi primer rol formal como DevOps o Cloud Engineer.
 
----
+### En producción
 
-## 💡 Sobre mí
+**Consultor IT freelance · Casa Fioretti** — sept. 2026 – hoy
 
-Soy estudiante avanzado de Ingeniería en Computación (UNC) y **Coordinador de Contenido Open Source en AWS Student Builder Group UNC**, donde lidero la creación de repositorios educativos y roadmaps (DevOps, Git) organizando aportes de la comunidad.
+- Odoo Enterprise on-premise para ~20 dispositivos: Linux con discos cifrados, Docker y configuración como código con Makefile. Acceso por Tailscale y Cloudflare Access.
+- Monitoreo como código en Grafana (servidor, PostgreSQL y Odoo), con alertas por email y Discord.
+- Backups diarios a Cloudflare R2 y disco local, con chequeo semanal y restore simulado una vez por mes.
+- Turnero para red local que atiende 7 puestos y ~300 clientes por día.
 
-Actualmente continúo fortaleciendo mis conocimientos a través de la **Diplomatura en DevOps FCEFYN UNC**, aplicando herramientas como Kubernetes, Helm, Argo CD, Terraform, AWS, CI/CD, observabilidad con Prometheus y Grafana, y gestión de secretos. Mi experiencia docente y comunitaria potenció habilidades como la comunicación asertiva, la adaptabilidad y el trabajo en equipo.
+### Proyectos
 
----
+| Proyecto | Qué tiene |
+|---|---|
+| **[FinFlow](https://github.com/JosiasTomasnanez/FinFlow)** | Plataforma GitOps sobre K3s y Amazon EKS: Helm, Argo CD (app-of-apps), canary con Argo Rollouts, autoescalado con KEDA, observabilidad con Prometheus, Grafana, Loki y Jaeger, Sealed Secrets y quality gate en GitHub Actions. Proyecto grupal de la Diplomatura; fui el autor principal de la infraestructura. |
+| **[VitalMed](https://github.com/JosiasTomasnanez/vitalmed-telehealth-platform)** | Arquitectura AWS multi-cuenta en Terraform modular (VPC, ECS Fargate, Aurora, Lambda + SQS, CloudFront). Escribí los 32 tests de Terraform y el pipeline de CI (validate, TFLint, Checkov). |
 
-## 🛠️ Tecnologías y herramientas
+Otros proyectos de la facultad: [shell en C](https://github.com/JosiasTomasnanez/custom_shell) · [gestor de memoria en C](https://github.com/JosiasTomasnanez/custom_memory_manager) · [monitor de métricas del sistema](https://github.com/JosiasTomasnanez/metrics_monitor) · [concurrencia con redes de Petri](https://github.com/JosiasTomasnanez/flightAgencyAttendanceMonitor) · [SatisPlanning](https://github.com/JosiasTomasnanez/SatisPlanning-game)
 
-### ☁️ Cloud & DevOps
-- **Contenedores**: Docker, Docker Compose
-- **Orquestación**: Kubernetes
-- **Empaquetado**: Helm
-- **GitOps**: Argo CD
-- **Despliegues Progresivos**: Argo Rollouts
-- **Cloud & IaC**: AWS (EKS, ECS, EC2, VPC, IAM, S3, EBS), Terraform
-- **Escalado Automático**: KEDA
-- **Gestión de Secretos**: Sealed Secrets
+### Stack
 
-### ⚙️ Automatización, CI/CD y Calidad
-- **CI/CD**: GitHub Actions
-- **Sistemas Operativos**: Linux (Bash)
-- **Feature Flags**: Implementación de despliegues controlados
-- **Calidad de Código**: Herramientas de análisis estático (SAST) como SonarQube y dinámico (DAST)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,githubactions,prometheus,grafana,linux,bash,postgres,mysql,python,git&perline=13" alt="AWS, Kubernetes, Terraform, Docker, GitHub Actions, Prometheus, Grafana, Linux, Bash, PostgreSQL, MySQL, Python, Git">
+</p>
 
-### 📊 Observabilidad
-- **Métricas y Dashboards**: Prometheus, Grafana
+También: Helm · Argo CD · Argo Rollouts · KEDA · Loki · Jaeger · Sealed Secrets · Checkov · TFLint · Cloudflare (R2, Access) · Tailscale
 
-### 💻 Desarrollo & Bases de Datos
-- **Lenguajes**: Java, Python, C, C++
-- **Bases de Datos**: SQL (Diseño y manejo relacional)
+### Certificaciones y comunidad
 
----
+- **AWS Certified Cloud Practitioner** — 2026
+- **Diplomatura en DevOps** — FCEFyN, Universidad Nacional de Córdoba, 2026
+- **Core Team Member, AWS Student Builder Group UNC** — contenido open source (roadmaps de DevOps y Git)
 
-## 📘 Proyectos académicos destacados
+### Contacto
 
-   Algunos de mis proyectos académicos y personales:
-
-- ☁️ **[FinFlow](https://github.com/JosiasTomasnanez/FinFlow.git)**  
-  Simulación de startup fintech. Plataforma *cloud-native* basada en microservicios, diseñada para desplegarse de forma transparente tanto en clústeres Kubernetes locales como en AWS mediante Helm, incorporando GitOps, CI/CD, observabilidad, despliegues progresivos y escalado automático.
-
-- ✈️ **[Monitor de concurrencia para red de Petri](https://github.com/JosiasTomasnanez/flightAgencyAttendanceMonitor.git)**  
-  Simulación de una agencia de vuelos basada en redes de Petri con concurrencia y sincronización de hilos.
-
-- 🐚 **[Terminal de Linux personalizada](https://github.com/JosiasTomasnanez/custom_shell.git)**  
-  Implementación de una shell propia en C, incorporando funciones de monitoreo del sistema y búsqueda de archivos de configuración.
-
-- 🎮 **[Juego 2D: SatisPlanning](https://github.com/JosiasTomasnanez/SatisPlanning-game.git)**  
-  Desarrollo en equipo de un juego 2D aplicando patrones de diseño, pruebas unitarias, arquitectura MVP y metodología ágil Scrum.
-
-🔗 Podés ver más en mi perfil: [github.com/JosiasTomasnanez](https://github.com/JosiasTomasnanez).
-
----
-
-## 📫 Contacto
-
-- ✉️ josias.tomas.kiara@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/josias-tomas-ñañez-5771a0319)
+[LinkedIn](https://www.linkedin.com/in/josias-tomas-%C3%B1a%C3%B1ez-5771a0319) · josias.tomas.kiara@gmail.com
