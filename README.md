@@ -10,7 +10,7 @@ Trabajo con **Kubernetes**, **GitOps con Argo CD**, **CI/CD con GitHub Actions**
 **Consultor IT freelance · Casa Fioretti** (desde sept. 2026)
 
 - Odoo Enterprise on-premise para ~20 dispositivos: Linux con discos cifrados, Docker, acceso por Tailscale y Cloudflare Access. Configuración como código con una herramienta propia (`plan` / `apply` / `verify` sobre YAML) y 18 módulos a medida.
-- Tienda online en Cloudflare Workers (Astro, D1, Durable Objects) sincronizada con Odoo sin exponer el servidor.
+- Tienda online en Cloudflare Workers (Astro, D1, Durable Objects), en etapa de prueba, que se sincroniza con Odoo sin exponer el servidor.
 - Monitoreo como código en Grafana (servidor, PostgreSQL y Odoo), con alertas por email y Discord.
 - Backups diarios a Cloudflare R2 y disco local, con chequeo semanal y restore simulado una vez por mes.
 - Turnero para red local que atiende 7 puestos y ~300 clientes por día.
